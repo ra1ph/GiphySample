@@ -1,0 +1,14 @@
+ext {
+    //Libraries
+    buildToolsVersion = '25.0.2'
+    supportLibraryVersion = '25.4.0'
+    daggerVersion = '2.0.2'
+    retrofitVersion = '2.2.0'
+    okhttpVersion = '3.3.0'
+    butterKnifeVersion = '8.5.1'
+    objectBoxVersion = '0.9.13'
+    guavaVersion = '18.0'
+    picassoVersion = '2.5.2'
+    exoplayerVersion = 'r2.5.1'
+    rxBindingVersion = '2.0.0'
+}

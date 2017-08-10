@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GiphySample</string>
+    <string name="search_controller_enter_text">Enter your request in the searchbar to start search</string>
+    <string name="search_controller_nothing_found">Nothing was found with your query. Try to change it.</string>
+    <string name="watch_gif_controller_title">GIF</string>
+    <string name="thumb_up">Thumb up</string>
+    <string name="thumb_down">Thumb down</string>
+</resources>
